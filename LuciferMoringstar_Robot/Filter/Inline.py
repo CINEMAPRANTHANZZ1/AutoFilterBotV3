@@ -91,7 +91,7 @@ def get_reply_markup(query):
     buttons = [[
         InlineKeyboardButton('🔰JOIN GROUP🔰', url=f'{TUTORIAL}')
         ],[
-        InlineKeyboardButton('HELP', switch_inline_query_current_chat=query)
+        InlineKeyboardButton("Help", callback_data="help")
         ]]
     return InlineKeyboardMarkup(buttons)
 
