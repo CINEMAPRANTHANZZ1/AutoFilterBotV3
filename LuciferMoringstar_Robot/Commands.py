@@ -115,7 +115,9 @@ async def start(bot, message):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
-                InlineKeyboardButton("Search Here", switch_inline_query_current_chat='')
+                InlineKeyboardButton("🔰JOIN GROUP🔰', url=f'{TUTORIAL}')
+
+                    
                 ],[
                 InlineKeyboardButton("Help", callback_data="help"),
                 InlineKeyboardButton("About", callback_data="about")
@@ -281,7 +283,7 @@ async def _banned_usrs(c, m):
 @Client.on_message(filters.command('total') & filters.user(ADMINS))
 async def total(bot, message):
     """Show total files in database"""
-    msg = await message.reply("Processing...⏳", quote=True)
+    msg = await message.reply("processing 😇", quote=True)
     try:
         total = await Media.count_documents()
         await msg.edit(f'📁 Saved files: {total}')
@@ -304,7 +306,7 @@ async def delete(bot, message):
     """Delete file from database"""
     reply = message.reply_to_message
     if reply and reply.media:
-        msg = await message.reply("Processing...⏳", quote=True)
+        msg = await message.reply("Processing 😇", quote=True)
     else:
         await message.reply('Reply to file with /delete which you want to delete', quote=True)
         return
@@ -331,7 +333,9 @@ async def bot_info(bot, message):
     buttons = [
         [
             
-            InlineKeyboardButton('Deploy Video', url=f'{TUTORIAL}')
+            InlineKeyboardButton('🔰JOIN GROUP🔰', url=f'{TUTORIAL}')
+
+                    
         ]
         ]
     await message.reply(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
