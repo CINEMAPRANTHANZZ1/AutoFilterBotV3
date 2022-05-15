@@ -37,5 +37,5 @@ ABOUT = """
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Owner : [UNKNOWN HACKER](https://t.me/UnKnOwN_HaCKeR_2_0)
+➥ Maintained By : [UNKNOWN HACKER](https://t.me/UnKnOwN_HaCKeR_2_0)
 """
