@@ -11,31 +11,31 @@ from .Channel import (
 )
 
 HELP = """
-Basic Commads
-
-/start :- check am Alive
-
-Bot Owner Only
-/broadcast Replay Any Message or Media
-/stats user Status
-/ban_user  click ban_user more info
-/unban_user click unban_user more info
-/banned_users Banned User Details
-/total How Many Files Added In Database
-/logger  Get Logs
-/delete Delete File From Database
-
+നീ ആരാ?
 """
 
-ABOUT = """
-➥ Name :  Auto Filter V3
-    
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
 
-➥ Language : Python3
+
+
+
+
+
+
+
+
+
+
+
+
+ABOUT = """
+
+    
+➥ Creator : [ME](https://t.me/Cp_jupiter)
+
+
+➥ source code : [click here](https://t.me/nokki_irunno_ippo_kittum)
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Owner : [UNKNOWN HACKER](https://t.me/UnKnOwN_HaCKeR_2_0)
 """
