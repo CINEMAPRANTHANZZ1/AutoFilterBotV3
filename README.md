@@ -7,18 +7,8 @@
 ## JOIN MY REVIEW CHANNEL
 <a href="https://t.me/cinemapranthanzz5"> <img src="https://img.shields.io/badge/CP REVIEWS-blue.svg?logo=Telegram">
 
-#### Added Features
-* Imdb posters for autofilter.
-* Imdb rating for autofilter.
-* Custom captions for your files.
-* Index command to index all the files in a given channel (No USER_SESSION Required).
-* Ability to Index Public Channels without being admin.
-* Support Auto-Filter (Both in PM and in Groups)
-* Once files saved in Database , exists until you manually deletes. (No Worry if post gets deleted from source channel.)
-* Added Force subscribe (Only channel subscribes can use the bot)
-* Ability to restrict groups(AUTH_GROUPS)
 
-#### Deploy To Heroku
+#### നോക്കി നിക്കാതെ വേഗം [DEPLOY] 👇 കൊടുത്തോ 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DHANANJAY4532/AutoFilterBotV3)
 
@@ -70,13 +60,7 @@ Once a poster is fetched from OMDB , poster is saved to DB to reduce duplicate r
 * You can use `|` to separate query and file type while searching for specific type of file. For example: `Avengers | video`
 * If you don't want to create a channel or group, use your chat ID / username as the channel ID. When you send a file to a bot, it will be saved in the database.
 
-## Thanks to 
-* [Pyrogram](https://github.com/pyrogram/pyrogram)
-* [Original Repo](https://github.com/Mahesh0253/Media-Search-bot)
-* [subinps](https://github.com/subinps/Media-Search-bot)
-* [Editing Muhammed Rk](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
-* [Mo Tech YT](https://t.me/Mo_Tech_Group)
-* [Lucifer Morningstar](@Lucifer_Devil_AD)
+
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
