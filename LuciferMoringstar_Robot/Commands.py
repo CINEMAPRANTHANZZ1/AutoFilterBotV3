@@ -109,10 +109,11 @@ async def start(bot, message):
             )
         )
     else:
-        await message.reply_text(
+        await message.reply_photo(
+            photo="https://telegra.ph/file/d9550da87ea5cd26f5a63.jpg",
+            caption="Enter Your Text Here https://t.me/CINEMAPRANTHANZZ1",
             START_MSG,
             parse_mode="Markdown",
-            disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
                 InlineKeyboardButton('🔰JOIN GROUP🔰', url=f'{TUTORIAL}')
