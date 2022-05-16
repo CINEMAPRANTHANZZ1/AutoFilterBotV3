@@ -111,7 +111,7 @@ async def start(bot, message):
     else:
         await message.reply_photo(
             photo="https://telegra.ph/file/d9550da87ea5cd26f5a63.jpg",
-            caption="default_start_msg https://t.me/CINEMAPRANTHANZZ1",
+            caption="HI IM KRITHI https://t.me/CINEMAPRANTHANZZ1",
             START_MSG,
             parse_mode="Markdown",
             reply_markup=InlineKeyboardMarkup(
