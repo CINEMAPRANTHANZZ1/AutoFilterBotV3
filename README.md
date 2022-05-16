@@ -2,8 +2,8 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/DalinMathew/AutoFilterBotV3?style=social)
 <img src="https://img.shields.io/github/forks/DalinMathew/AutoFilterBotV3?style=social"></img>
-## How To Deploy Video
-<a href="https://youtu.be/5hnYOKBzyi8"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/5hnYOKBzyi8?style=social">
+## JOIN MY MAIN GROUP 
+<a href="https://t.me/cinemapranthanzz1"><img src="https://img.shields.io/badge/CINEMAPRANTHANZ-blue.svg?logo=Telegram">
 ## Subscribe YouTube Channel
 <a href="https://youtube.com/NaughtyPROFESSOR"> <img src="https://img.shields.io/youtube/channel/subscribers/UCU3Hg3qJJrIaC_0Gw7MLT1A?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
 
@@ -20,7 +20,7 @@
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aradhyaph/autofilter-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DHANANJAY4532/AutoFilterBotV3)
 
 #### Hard Way
 ```bash
