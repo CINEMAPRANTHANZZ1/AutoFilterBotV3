@@ -115,7 +115,7 @@ async def start(bot, message):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
-                InlineKeyboardButton("🔰JOIN GROUP🔰', url=f'{TUTORIAL}')
+                InlineKeyboardButton('🔰JOIN GROUP🔰', url=f'{TUTORIAL}')
 
                     
                 ],[
