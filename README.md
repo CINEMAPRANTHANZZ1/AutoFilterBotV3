@@ -11,5 +11,5 @@
 
 #### നോക്കി നിക്കാതെ വേഗം [DEPLOY] 👇 കൊടുത്തോ 
 
-[![DEPLOY TO HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DHANANJAY4532/AutoFilterBotV3)
+[![DEPLOY TO HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CINEMAPRANTHANZZ1/AutoFilterBotV3)
 
