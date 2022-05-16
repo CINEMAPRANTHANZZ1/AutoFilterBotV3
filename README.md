@@ -1,11 +1,11 @@
 
 
-![GitHub Repo stars](https://img.shields.io/github/stars/DalinMathew/AutoFilterBotV3?style=social)
-<img src="https://img.shields.io/github/forks/DalinMathew/AutoFilterBotV3?style=social"></img>
+![GitHub Repo stars](https://img.shields.io/github/stars/DHANANJAY4532/AutoFilterBotV3?style=social)
+<img src="https://img.shields.io/github/forks/DHANANJAY4532/AutoFilterBotV3"></img>
 ## JOIN MY MAIN GROUP 
 <a href="https://t.me/cinemapranthanzz1"><img src="https://img.shields.io/badge/CINEMAPRANTHANZ-blue.svg?logo=Telegram">
-## Subscribe YouTube Channel
-<a href="https://youtube.com/NaughtyPROFESSOR"> <img src="https://img.shields.io/youtube/channel/subscribers/UCU3Hg3qJJrIaC_0Gw7MLT1A?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
+## JOIN MY REVIEW CHANNEL
+<a href="https://t.me/cinemapranthanzz5"> <img src="https://img.shields.io/telegram/channel/subscribers/UCU3Hg3qJJrIaC_0Gw7MLT1A?V?label=Subscribers&style=for-the-badge&color=blue&labelColor=ce463"/> </a>
 
 #### Added Features
 * Imdb posters for autofilter.
