@@ -35,7 +35,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 default_start_msg = """
-**Hi, I'm മിന്നൽ മുരളി (ഒറിജിനൽ)**
+**Hi, I'm KRITHI**
 
 
 """
