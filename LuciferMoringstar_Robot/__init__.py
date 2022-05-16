@@ -32,7 +32,6 @@ ABOUT = """
     
 ➥ Creator : [ME](https://t.me/Cp_jupiter)
 
-
 ➥ source code : [click here](https://t.me/nokki_irunno_ippo_kittum)
 
 ➥ Library : Pyrogram Asyncio 1.13.0
