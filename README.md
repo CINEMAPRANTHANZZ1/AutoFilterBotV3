@@ -1,7 +1,7 @@
 
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/DHANANJAY4532/AutoFilterBotV3?style=social)
-<img src="https://img.shields.io/github/forks/DHANANJAY4532/AutoFilterBotV3"></img>
+<img src="https://img.shields.io/github/forks=1M/DHANANJAY4532/AutoFilterBotV3"></img>
 ## JOIN MY MAIN GROUP 
 <a href="https://t.me/cinemapranthanzz1"><img src="https://img.shields.io/badge/CINEMAPRANTHANZ-blue.svg?logo=Telegram">
 ## JOIN MY REVIEW CHANNEL
